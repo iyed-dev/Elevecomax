@@ -6,7 +6,7 @@
 Pour configurer le site web, rien de plus simple : rendez-vous sur votre espace de données, créez une base de données portant le nom <i>elevecomax</i>, puis accédez à la colonne SQL et importez le fichier <i>bdd.sql</i> que vous trouverez dans le dossier <i>bdd</i>.
 
 <h3> Administrateur </h3>
-Dans l'espace administrateur vous pourrez créer des comptes pour les élèves, parents, professeurs et vous pourrez également supprimer les comptes.
+Dans l'espace administrateur, vous pourrez créer des comptes pour les élèves, les parents et les professeurs, ainsi que les supprimer si nécessaire.
 
 <h3> Hébergement de fichier </h3>
 Les possibilités d'hébergement de fichier sont limités dans les extensions de fichiers suivants :
