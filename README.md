@@ -1,6 +1,6 @@
-# </> EleveCoMax </>
+# </> Elevecomax </>
 <h1> Présentation </h1>
-EleveCoMax est un logiciel qui permet de communiquer avec les élèves entre eux, les professeurs entre eux et les parents entre eux également, 
+Elevecomax est un logiciel qui permet de communiquer avec les élèves entre eux, les professeurs entre eux et les parents entre eux également, 
 avec également un hébergement de fichier.
 
 <h2> Configuration </h2>
