@@ -17,4 +17,6 @@ Vous pourrez les modifier dans le code si vous voulez plus/moins d'extensions.
 
 Pour toute question, vous pouvez me contacter sur <a href="https://www.instagram.com/iyed.dev/"> mon compte Instagram </a>.
 
-&copy Iyed Amri
+<h4>⚠️ Toute utilisation à des fins publics sans mon autorisation et formellement interdite.</h4>
+
+© Iyed Amri
