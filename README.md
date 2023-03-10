@@ -1,7 +1,6 @@
 # </> Elevecomax </>
 <h1> Présentation </h1>
-Elevecomax est un logiciel qui permet de communiquer avec les élèves entre eux, les professeurs entre eux et les parents entre eux également, 
-avec également un hébergement de fichier.
+ÉlèveComax est un logiciel qui permet de communiquer entre élèves, entre professeurs, et entre parents. Il offre également un hébergement de fichiers.
 
 <h3> Configuration </h3>
 Pour configurer le site web rien de plus simple, vous devez allez sur votre espace de donnée, créer une base de donnée du nom de <i>elevecomax</i>, puis aller dans la
