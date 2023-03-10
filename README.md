@@ -16,3 +16,5 @@ jpg, jpeg, gif, png
 Vous pourrez les modifier dans le code si vous voulez plus/moins d'extensions.
 
 Pour toute question, vous pouvez me contacter sur <a href="https://www.instagram.com/iyed.dev/"> mon compte Instagram </a>.
+
+&copy Iyed Amri
