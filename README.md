@@ -4,7 +4,7 @@ EleveCoMax est un logiciel qui permet de communiquer avec les élèves entre eux
 avec également un hébergement de fichier.
 
 <h2> Configuration </h2>
-Pour configurer le site web rien de plus simple, vous devez allez sur votre espace de donnée, créer une base de donnée du nom de "elevecomax", puis aller dans la
+Pour configurer le site web rien de plus simple, vous devez allez sur votre espace de donnée, créer une base de donnée du nom de <i>elevecomax</i>, puis aller dans la
 colonne SQL puis upload le fichier <i>bdd.sql</i> que vous pourrez retrouver dans le dossier <i>bdd</i>.
 
 <h3> Administrateur </h3>
