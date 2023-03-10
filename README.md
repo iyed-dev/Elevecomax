@@ -16,4 +16,4 @@ Les possibilités d'hébergement de fichier sont limités dans les extensions de
 jpg, jpeg, gif, png
 Vous pourrez les modifier dans le code si vous voulez plus/moins d'extensions.
 
-Pour toute question, vous pouvez me contacter sur <a href="https://www.instagram.com/iyed.dev/"> mon compte instagram </a>
+Pour toute question, vous pouvez me contacter sur <a href="https://www.instagram.com/iyed.dev/"> mon compte Instagram </a>.
