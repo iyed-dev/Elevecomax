@@ -1,5 +1,5 @@
 # </> Elevecomax 🎒</>
-<h1> Présentation </h1>
+<h1> Présentation 🖌️</h1>
 ÉlèveComax est un logiciel qui permet de communiquer entre élèves, entre professeurs, et entre parents. Il offre également un hébergement de fichiers.
 
 <h3> Configuration ⚙️</h3>
