@@ -11,7 +11,7 @@ Dans l'espace administrateur, vous pourrez créer des comptes pour les élèves,
 <h3> Hébergement de fichier 📁</h3>
 Les possibilités d'hébergement de fichiers sont limitées aux extensions suivantes : jpg, jpeg, gif et png. Si vous souhaitez ajouter ou retirer des extensions, vous pourrez le faire en modifiant le code. Pour toute question, n'hésitez pas à me contacter sur <a href="https://www.instagram.com/iyed.dev/"> mon compte Instagram</a>.
 
-<h3> Password ⚙️</h3>
+<h3> Password 📌</h3>
 Le nom d'utilisateur est "admin" et le mot de passe associé est également "admin".
 
 <h4>⚠️ Toute utilisation à des fins publiques sans mon autorisation est formellement interdite.</h4>
