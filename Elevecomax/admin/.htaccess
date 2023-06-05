@@ -1,0 +1,4 @@
+AuthName "Ceci est du contenue securisee"
+AuthType Basic
+AuthUserFile "D:\xampp\htdocs\Elevecomax\admin\.htpasswd"
+Require valid-user
